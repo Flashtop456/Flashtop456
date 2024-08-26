@@ -1,5 +1,5 @@
 ## Bem vindo ao meu perfil 💜
-meu nome e thiago
+meu nome é thiago
 
 estou estudando na alura
 
