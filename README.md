@@ -1,8 +1,10 @@
-## Olá meu nome é Thiago 
+## Bem vindo ao meu perfil 💜
+meu nome e thiago
 
 estou estudando na alura
 
 estou me desenvolvendo na lingugem de JavaScript
+
 utilizo este espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 _Voce pode entrar em contato comigo_
