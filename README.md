@@ -1,9 +1,11 @@
 ## Olá meu nome é Thiago 
 
 estou estudando na alura
+
 estou me desenvolvendo na lingugem de JavaScript
 utilizo este espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
-_Voce pode entrar em conbtato comigo 
+
+_Voce pode entrar em contato comigo_
 
 thiapucas@gmail.com
 
